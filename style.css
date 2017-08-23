@@ -1,0 +1,27 @@
+wrap{
+	width: 100%;
+}
+
+button{
+	width: 15%;
+	height: 2.174em;
+	border: 0;
+}
+
+input{
+	width: 2%;
+	height: 1.500em;
+	text-align: center;
+}
+
+.yellow{
+	background: #ecec2f;
+}
+
+.red{
+	background: #ec2323;
+}
+
+.green{
+	background: #10a910;
+}
