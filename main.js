@@ -19,7 +19,7 @@
     }
 
     function handleStop(){
-      return clearTimeout(temp)
+      clearTimeout(temp)
     }
 
     function handleReset(){
